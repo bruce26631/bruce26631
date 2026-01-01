@@ -5,7 +5,7 @@
 📞 +1 212-555-0147 | ✉️ bruce.lee.us2026@outlook.com  
 🌐 [LinkedIn](https://linkedin.com/in/bruce-lee-51770b190/)
 
----## 👨‍💻 About Me
+## 👨‍💻 About Me
 
 Hi! I'm **Bruce Lee**, a Senior Full Stack Engineer with 8+ years of experience building **high-performance, cloud-based, and SaaS-integrated web applications**.  
 
