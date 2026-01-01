@@ -1,101 +1,113 @@
-GitHub Activity Generator [![Gitter](https://badges.gitter.im/github-activity-generator/community.svg)](https://gitter.im/github-activity-generator/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![build](https://github.com/Shpota/github-activity-generator/workflows/build/badge.svg)](https://github.com/Shpota/github-activity-generator/actions?query=workflow%3Abuild)
-=========================
+👋 Hi, I'm Bruce Lee
 
-A script that helps you *instantly* generate a beautiful GitHub Contributions Graph
-for the last year.
+**Senior Full Stack Engineer | React, Node.js, .NET, E-Commerce**  
+📍 Novato, California, USA  
+📞 +1 212-555-0147 | ✉️ bruce.lee.us2026@outlook.com  
+🌐 [LinkedIn](https://linkedin.com/in/bruce-lee-51770b190/)
 
-## ⚠ Disclaimer
+---
 
-This script is for educational purposes and demonstrating GitHub mechanics. It should not be used to misrepresent professional contributions or coding activity.
+## 💼 Professional Summary
+Full Stack Developer III and Software Developer with 8+ years of experience delivering **high-volume, decoupled, responsive, cloud-based, and SaaS-integrated applications**.  
+Skilled Technical Lead and Technical Liaison, providing technical expertise and fostering agile practices across internal teams and SaaS vendor ecosystems.  
+Experienced in **multi-tiered software development**, establishing standards, performing code reviews, and mentoring teams.  
+Strong team player with expertise in **TypeScript, SOLID principles, Design Patterns**, and building **scalable, maintainable enterprise solutions**.
 
-## Check my other projects
+---
 
-I created this project more than five years ago. Since then, I have built several **much more valuable
-tools** which I encourage you to check:
+## 🚀 Technical Skills
 
-- [sol4k](https://github.com/sol4k/sol4k) - Kotlin, JVM, and Android client for Solana
-- [podil.js](https://github.com/podiljs/podil) - Lightweight and secure database schema migration tool
-- [goxygen](https://github.com/Shpota/goxygen) - Web project generator
-- [zeit](https://github.com/Shpota/zeit) - A Fitbit clock face for learners of the German language
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react) 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs) 
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular) 
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3) 
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux) 
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css) 
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
 
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js) 
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python) 
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django) 
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask) 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi) 
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go) 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk) 
+![REST APIs](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge) 
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql) 
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge) 
+![Microservices](https://img.shields.io/badge/Microservices-0A0A0A?style=for-the-badge)
 
-## What it looks like
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql) 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb) 
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis) 
+![DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb)
 
-### Before :neutral_face: :no_mouth: :unamused: 
-![Before](before.png)
-### After :muscle: :relieved: :heart: :sunglasses: :metal: :horse: :wink: :fire: :dancer: :santa: :fireworks: :cherries: :tada:
-![After](after.png)
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws) 
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 
-## How to use
-1. Create an empty GitHub repository. Do not initialize it.
-2. Download [the contribute.py script](https://github.com/Shpota/github-activity-generator/archive/master.zip) 
-and execute it passing the link on the created repository
-```sh
-python contribute.py --repository=git@github.com:user/repo.git
-```
-Now you have a repository with lots of changes in your GitHub account.
-Note: it takes several minutes for GitHub to reindex your activity.
+### 🤖 AI & Tools
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai) 
+CRM | General AI | SOLID Principles | Design Patterns | API Design
 
-## How it works
-The script initializes an empty git repository, creates a text file and starts 
-generating changes to the file for every day within the last year (0-20 commits 
-per day). Once the commits are generated it links the created repository with
-the remote repository and pushes the changes.
+---
 
-## Customizations
-You can customize how often to commit and how many commits a day to make, etc.
+## 🏢 Work Experience
 
-For instance, with the following command, the script will make from 1 to 12 
-commits a day. It will commit 60% days a year.
-```sh
-python contribute.py --max_commits=12 --frequency=60 --repository=git@github.com:user/repo.git
-```
-Use `--no_weekends` option if you don't want to commit on weekends
-```sh
-python contribute.py --no_weekends
-```
-If you do not set the `--repository` argument the script won't push the changes. 
-This way you can import the generated repository yourself.
+### **Senior Full Stack Engineer | Alluxa, Inc**  
+*Novato, CA | 2021 – Present*  
+- Led development of React/Next.js apps supporting **100k+ concurrent users**  
+- Designed scalable REST APIs with Node.js and Express, improving **response time by 35–40%**  
+- Migrated legacy services to **AWS Lambda microservices**, reducing server costs by 20%  
+- Implemented **CI/CD pipelines** with automated testing, reducing production bugs by 30%  
+- Mentored 5 junior engineers and conducted architecture reviews  
+- Collaborated with cross-functional teams across multiple time zones  
 
-Use `--days_before` and `--days_after` to specify how many days before the current
-date the script should start committing, and how many days after the current date it
-will keep committing.
+### **Senior Full Stack Engineer | QuantumLeap Systems**  
+*Saratoga, CA | 2018 – 2021*  
+- Built end-to-end web applications with React, TypeScript, Node.js, PostgreSQL  
+- Developed APIs and integrated third-party services, increasing **data processing efficiency by 25%**  
+- Optimized frontend performance via SSR, lazy loading, and code-splitting  
+- Introduced unit/integration testing, improving reliability and code coverage  
+- Partnered with product/design teams to deliver scalable solutions  
 
-```sh
-python contribute.py --days_before=10 --days_after=15
-```
+### **Senior Full Stack Engineer | BrightWave Technologies**  
+*San Francisco, CA | 2016 – 2018*  
+- Developed responsive, high-traffic web apps with React and Node.js  
+- Designed database schemas and optimized queries, improving **API throughput by 20%**  
+- Contributed to long-term system architecture and performance improvements  
+- Collaborated in fully remote Agile teams across North America & Europe  
 
-Run `python contribute.py --help` to get help.
+### **Full Stack Engineer | Deloitte Digital**  
+*New York, NY | 2014 – 2016*  
+- Maintained and enhanced web apps using JavaScript, Node.js, MySQL  
+- Modernized legacy systems into scalable, API-driven architectures  
+- Delivered production fixes under tight deadlines  
+- Participated in peer code reviews and Agile team collaboration  
 
-## System requirements
-To be able to execute the script you need to have Python and Git installed.
+---
 
-## Troubleshooting
+## 📜 Certifications
+- **Shopify** – Certified Shopify Developer  
+- **AWS** – AWS Certified Developer – Associate  
 
-#### I performed the script but my GitHub activity is still the same.
-It might take several minutes for GitHub to reindex your activity. Check
-if the repository has new commits and wait a couple of minutes.
-#### The changes are still not reflected after some time.
-Are you using a private repository? If so, enable showing private contributions
-[following this guide](https://help.github.com/en/articles/publicizing-or-hiding-your-private-contributions-on-your-profile).
+---
 
-#### Still no luck
-Make sure the email address you have in GitHub is the same as you have in
-your local settings. GitHub counts contributions only when they are made 
-using the corresponding email.
+## 📫 Contact
+- LinkedIn: [linkedin.com/in/bruce-lee-51770b190](https://linkedin.com/in/bruce-lee-51770b190/)  
+- Email: bruce.lee.us2026@outlook.com  
+- Phone: +1 212-555-0147  
 
-Check your local email settings with:
-```
-git config --get user.email
-```
-If it doesn't match with the one from GitHub reset it with
-```
-git config --global user.email "user@example.com"
-```
-Create a new repository and rerun the script.
+---
 
-#### There are errors in the logs of the script.
-Maybe you tried to use an existing repository. If so, make sure you are using
-a new one which is *not initialized*.
-
-**If none of the options helped, open an issue and I will fix it as soon as possible.**
+⭐ If you like my work, consider **starring my repositories**!
