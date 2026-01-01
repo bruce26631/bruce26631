@@ -1,10 +1,5 @@
 👋 Hi, I'm Bruce Lee
 
-**Senior Full Stack Engineer | React, Node.js, .NET, E-Commerce**  
-📍 Novato, California, USA  
-📞 +1 212-555-0147 | ✉️ bruce.lee.us2026@outlook.com  
-🌐 [LinkedIn](https://linkedin.com/in/bruce-lee-51770b190/)
-
 ## 👨‍💻 About Me
 
 Hi! I'm **Bruce Lee**, a Senior Full Stack Engineer with 8+ years of experience building **high-performance, cloud-based, and SaaS-integrated web applications**.  
@@ -64,22 +59,6 @@ Feel free to explore my repositories to see my work on **web apps, APIs, microse
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai) 
 CRM | General AI | SOLID Principles | Design Patterns | API Design
 
----
 
-
----
-
-## 📜 Certifications
-- **Shopify** – Certified Shopify Developer  
-- **AWS** – AWS Certified Developer – Associate  
-
----
-
-## 📫 Contact
-- LinkedIn: [linkedin.com/in/bruce-lee-51770b190](https://linkedin.com/in/bruce-lee-51770b190/)  
-- Email: bruce.lee.us2026@outlook.com  
-- Phone: +1 212-555-0147  
-
----
 
 ⭐ If you like my work, consider **starring my repositories**!
