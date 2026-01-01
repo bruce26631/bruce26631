@@ -62,38 +62,6 @@ CRM | General AI | SOLID Principles | Design Patterns | API Design
 
 ---
 
-## 🏢 Work Experience
-
-### **Senior Full Stack Engineer | Alluxa, Inc**  
-*Novato, CA | 2021 – Present*  
-- Led development of React/Next.js apps supporting **100k+ concurrent users**  
-- Designed scalable REST APIs with Node.js and Express, improving **response time by 35–40%**  
-- Migrated legacy services to **AWS Lambda microservices**, reducing server costs by 20%  
-- Implemented **CI/CD pipelines** with automated testing, reducing production bugs by 30%  
-- Mentored 5 junior engineers and conducted architecture reviews  
-- Collaborated with cross-functional teams across multiple time zones  
-
-### **Senior Full Stack Engineer | QuantumLeap Systems**  
-*Saratoga, CA | 2018 – 2021*  
-- Built end-to-end web applications with React, TypeScript, Node.js, PostgreSQL  
-- Developed APIs and integrated third-party services, increasing **data processing efficiency by 25%**  
-- Optimized frontend performance via SSR, lazy loading, and code-splitting  
-- Introduced unit/integration testing, improving reliability and code coverage  
-- Partnered with product/design teams to deliver scalable solutions  
-
-### **Senior Full Stack Engineer | BrightWave Technologies**  
-*San Francisco, CA | 2016 – 2018*  
-- Developed responsive, high-traffic web apps with React and Node.js  
-- Designed database schemas and optimized queries, improving **API throughput by 20%**  
-- Contributed to long-term system architecture and performance improvements  
-- Collaborated in fully remote Agile teams across North America & Europe  
-
-### **Full Stack Engineer | Deloitte Digital**  
-*New York, NY | 2014 – 2016*  
-- Maintained and enhanced web apps using JavaScript, Node.js, MySQL  
-- Modernized legacy systems into scalable, API-driven architectures  
-- Delivered production fixes under tight deadlines  
-- Participated in peer code reviews and Agile team collaboration  
 
 ---
 
