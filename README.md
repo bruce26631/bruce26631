@@ -5,13 +5,17 @@
 📞 +1 212-555-0147 | ✉️ bruce.lee.us2026@outlook.com  
 🌐 [LinkedIn](https://linkedin.com/in/bruce-lee-51770b190/)
 
----
+---## 👨‍💻 About Me
 
-## 💼 Professional Summary
-Full Stack Developer III and Software Developer with 8+ years of experience delivering **high-volume, decoupled, responsive, cloud-based, and SaaS-integrated applications**.  
-Skilled Technical Lead and Technical Liaison, providing technical expertise and fostering agile practices across internal teams and SaaS vendor ecosystems.  
-Experienced in **multi-tiered software development**, establishing standards, performing code reviews, and mentoring teams.  
-Strong team player with expertise in **TypeScript, SOLID principles, Design Patterns**, and building **scalable, maintainable enterprise solutions**.
+Hi! I'm **Bruce Lee**, a Senior Full Stack Engineer with 8+ years of experience building **high-performance, cloud-based, and SaaS-integrated web applications**.  
+
+I specialize in **React, Next.js, Node.js, .NET, and modern frontend/backend technologies**, designing **scalable, maintainable, and enterprise-grade solutions**.  
+
+I enjoy solving complex problems, mentoring teams, and working across **distributed teams** to deliver high-quality software.  
+
+When I'm not coding, I like exploring **AI/ML technologies**, experimenting with new frameworks, and contributing to open-source projects.  
+
+Feel free to explore my repositories to see my work on **web apps, APIs, microservices, and cloud-native solutions**.  
 
 ---
 
