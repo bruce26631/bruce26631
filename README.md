@@ -1,8 +1,8 @@
-👋 Hi, I'm Bruce Lee
+👋 Hi,
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Bruce Lee**, a Senior Full Stack Engineer with 8+ years of experience building **high-performance, cloud-based, and SaaS-integrated web applications**.  
+Hi! I'm a Senior Full Stack Engineer with 8+ years of experience building **high-performance, cloud-based, and SaaS-integrated web applications**.  
 
 I specialize in **React, Next.js, Node.js, .NET, and modern frontend/backend technologies**, designing **scalable, maintainable, and enterprise-grade solutions**.  
 
